@@ -129,7 +129,7 @@ iCloudバックアップを利用している場合、iCloud上に保存され�
 
 本プライバシーポリシーに関するお問い合わせは、以下のメールアドレスまでご連絡ください。
 
-メールアドレス: sabolog.support@gmail.com
+メールアドレス: leo.indieappworks+sabolog@gmail.com
 
 ---
 
